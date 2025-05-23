@@ -133,3 +133,11 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGIN_REDIRECT_URL = 'dashboard-index'
 LOGOUT_REDIRECT_URL = '/login/'
 LOGIN_URL = 'user-login'
+
+# Pathword Reset
+EMAIL_BACKEND = 'django.core.mail.backend.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
