@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Invento Logo](asert/logo.svg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Django Version](https://img.shields.io/badge/Django-5.1.1-green.svg)](https://www.djangoproject.com/)
