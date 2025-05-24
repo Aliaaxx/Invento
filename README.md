@@ -13,15 +13,10 @@ A modern inventory management system built with Django
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## 🎯 Overview
 
@@ -122,6 +117,3 @@ API endpoints are available at `/api/v1/`:
 
 ---
 
-<div align="center">
-Made with ❤️ by Your Name
-</div>
